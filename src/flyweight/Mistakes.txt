@@ -1,0 +1,11 @@
+Flyweight
+
+There is no clear distinction between temporary and permanent data
+
+Flyweight objects do not manage the permanent state.
+
+There are no specific Flyweight methods that receive the temporary state and process it along with the permanent state.
+
+The Flyweight object also manages the temporary state (stores the value by its attributes)
+
+The Flyweight object Factory is not implemented correctly. For example, it generates a new Flyweight object each time and does not reuse it.

@@ -1,0 +1,7 @@
+Observer
+
+Observable does not allow the observers subscribing and unsubscribing
+
+The function triggering event is not defined or it does not notify observers
+
+Observatory does not allow the subscription of several observers

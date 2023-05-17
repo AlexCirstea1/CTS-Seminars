@@ -1,0 +1,3 @@
+Composite
+
+Classes that describe leaf nodes and “composite” nodes do not have the same abstract interface / class. They need to share the same type, so I can use up-casting to manage either of them.
