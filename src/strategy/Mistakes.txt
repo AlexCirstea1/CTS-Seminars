@@ -1,0 +1,8 @@
+Strategy
+
+
+It is not possible to modify the strategy for the object (the method that allows the modification of the strategy is missing)
+
+Recommendation: The strategy is not received by the constructor.
+
+The object that uses the strategy is called Strategy. It creates confusion because you think this is the interface of the strategy.
