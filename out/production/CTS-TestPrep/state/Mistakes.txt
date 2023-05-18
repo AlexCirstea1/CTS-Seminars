@@ -1,0 +1,7 @@
+State
+
+The object cannot change its state by its own actions.
+
+The state behaves like a Strategy and the object is controlled from the outside.
+
+There is no difference from the same implementation with Strategy

@@ -1,0 +1,5 @@
+Decorator
+
+There is no reference to the decorated object
+
+Decorators cannot be applied in cascade
